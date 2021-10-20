@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cdawglabs/SpaceGame%20Gitflow/_apis/build/status/SpaceGame%20Gitflow-ASP.NET%20Core-CI?branchName=main)](https://dev.azure.com/cdawglabs/SpaceGame%20Gitflow/_build/latest?definitionId=17&branchName=main)
 
 # Contributing
 
